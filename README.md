@@ -11,7 +11,7 @@
 
  Features
 
-# 1. Service Feature 1: Appointment Management (Patient)
+ 1. Appointment Management (Patient)
 
 Create: Patients can book appointments by selecting an available date and time slot. The system validates availability to prevent double booking.
 Read: Patients can view all their appointments along with details such as date, status, queue position, and estimated waiting time.
@@ -20,7 +20,7 @@ Delete: Patients can cancel their appointments, which automatically updates the 
 
 
 
-# 2. Service Feature 2: Queue Management System (Doctor)
+ 2. Queue Management System (Doctor)
 
 Create: Each confirmed appointment is automatically assigned a queue position based on booking order.
 Read: Doctors can view the full queue list, including patient details and check-in status.
@@ -33,7 +33,7 @@ Update: Doctors can manage the queue dynamically by:
 
 
 
-# 3. Service Feature 3: Patient Check-in System (Patient)
+3. Patient Check-in System (Patient)
 
 Create: Patients can check in upon arrival at the clinic.
 Read: Doctors can view the check-in status of all patients in the queue.
@@ -41,7 +41,7 @@ Update: Patients can update their check-in status before being served.
 Delete: Check-in status is automatically cleared after the appointment is completed or cancelled.
 
 
-# 4. Service Feature 4: Authentication & Authorization
+ 4. Authentication & Authorization
 
 Authentication
 
@@ -65,7 +65,7 @@ Authorization (Role-Based Access Control)
   - Monitor patient check-in status
 
 
-# 5. Service Feature 5: System Intelligence & Enhancements
+ 5. System Intelligence & Enhancements
 
 - Smart Waiting Time Estimation:
   Calculates estimated waiting time using queue position and average consultation time.
