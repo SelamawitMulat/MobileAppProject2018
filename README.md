@@ -1,18 +1,15 @@
-# Members
+
 
  | FULL NAME          |  ID           |
  |--------------------|---------------|
  | Betelehem Meheret  |  UGR/2245/16  |
  | Hanisa Gammada     |  UGR/0694/14  |
- | Selamawit Mulat    |  UGR/1033/16n |
+ | Selamawit Mulat    |  UGR/1033/16  |
  | Selam Tewodros     |  UGR /2331/16 |
  | Solomom Waganeh    |  UGR/0092/18  |
 
 
-
-# MobileAppProject2018
-
-# Features
+ Features
 
 # 1. Service Feature 1: Appointment Management (Patient)
 
