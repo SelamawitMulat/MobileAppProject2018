@@ -84,6 +84,16 @@ Authorization (Role-Based Access Control)
 - Offline-First Functionality:
   The system operates without internet by storing and managing data locally on the device.
 
+  ### 6. Visit Summary (Doctor & Patient)
+
+Create: Doctors record a visit summary after each completed appointment, including diagnosis, prescription, and notes.
+
+Read: Patients can view their past visit summaries along with appointment details. Doctors can also review previous summaries.
+
+Update: Doctors can edit visit summaries if needed.
+
+Delete: Doctors can remove incorrect or duplicate visit summaries.
+
 
 # Future Enhancements
 
